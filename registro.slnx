@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="registro.vcxproj" Id="6994bee9-302e-4727-b259-aad23fbe9992" />
+</Solution>
