@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ReTo002\\x64\\Debug\\ReTo002.obj",
+            "outputs": [
+                "ReTo002\\x64\\Debug\\ReTo002.cpp.obj.dt.module.json",
+                "ReTo002\\x64\\Debug\\ReTo002.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
